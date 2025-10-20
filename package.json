@@ -1,0 +1,26 @@
+{
+  "name": "tangere",
+  "displayName": "Tangere",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tangere Light",
+        "uiTheme": "vs",
+        "path": "./themes/Tangere-light.json"
+      },
+      {
+        "label": "Tangere Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tangere-dark.json"
+      }
+    ]
+  }
+}
