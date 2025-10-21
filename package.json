@@ -1,8 +1,9 @@
 {
   "name": "tangere",
   "displayName": "Tangere",
-  "description": "",
-  "version": "0.0.2",
+  "description": "A beautiful and legible color theme inspired by the Tangere terminal palette",
+  "version": "0.0.3",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.105.0"
   },
