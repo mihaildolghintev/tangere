@@ -182,14 +182,6 @@
 		"breadcrumb.activeSelectionForeground": "#223355",
 		"breadcrumbPicker.background": "#ede8d0",
 
-		"menu.background": "#ede8d0",
-		"menu.foreground": "#000000",
-		"menu.separatorBackground": "#d1d1d1",
-		"menu.border": "#d1d1d1",
-		"menubar.selectionBackground": "#e0ba70",
-		"menubar.selectionForeground": "#000000",
-		"menubar.selectionBorder": "#805619",
-
 		"dropdown.background": "#f5f5f0",
 		"dropdown.listBackground": "#ede8d0",
 		"dropdown.border": "#d1d1d1",
